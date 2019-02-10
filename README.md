@@ -1,6 +1,6 @@
 # minor
 
-# Steps for setting up this project in netbeans
+## Steps for setting up this project in netbeans
 
 # Step 1: Download this project in zip formate / clone to your system
 # Step 2: Go inside netbeans and create a project named minor
