@@ -1,0 +1,26 @@
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background: #607D8B!important;
+}
+
+
+.question{
+	font-size: 20px;
+	padding: 20px;
+}
+
+button{
+	border-radius: 20px!important;
+}
+
+input[type=radio]{
+    text-transform: uppercase!important;
+}
+
+tr th{
+    text-transform: uppercase!important;
+}
+
